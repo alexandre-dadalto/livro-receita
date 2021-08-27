@@ -10,4 +10,4 @@
  
  ### Modo preparo
  
-  - Frite tudo e coma
+  - Frite tudo e coma com garfo
