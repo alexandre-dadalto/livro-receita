@@ -1,6 +1,6 @@
-#Strogonofe de Frango: chi
+# Strogonofe de Frango: chi
 
-###Ingredientes
+### Ingredientes
 
  - i kg frango
  - i kg frango
@@ -8,6 +8,6 @@
  - i kg frango
  - i kg frango
  
- ###Modo preparo
+ ### Modo preparo
  
-  - Frite tudo
+  - Frite tudo e coma
